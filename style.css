@@ -147,7 +147,7 @@ nav .options {
   height: 100vh;
   width: 100%;
   overflow: hidden;
-  border-top: 1px solid #dadada;
+  border-top: 1px solid rgb(101, 100, 100);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -219,7 +219,7 @@ nav .options {
   background-color: rgb(71, 65, 65);
   position: absolute;
   z-index: 1;
-  border-top: 1px solid #dadada;
+  border-top: 1px solid rgb(101, 100, 100);
 }
 
 .page3 .top1{
@@ -232,7 +232,7 @@ nav .options {
 }
 
 .page3 .top1 h1{
-  font-size: 9vh;
+  font-size: 10vh;
 }
 
 .page3 .top1 span{
@@ -246,11 +246,11 @@ nav .options {
 }
 
 .contact-container {
-  padding: 30px;
+  padding: 10px;
   width: 100%;
   max-width: 400px;
   background-color: transparent;
-  margin-left: 200px;
+  margin-left: 250px;
   border-radius: 8px;
   /* box-shadow: 0 10px 25px rgba(237, 237, 237, 0.1); */
 }
@@ -310,11 +310,11 @@ nav .options {
 }
 
 .bottom1 .side1{
-  width: 45vw;
+  width: 35vw;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-right: 70px;
+  margin-right: 160px;
 }
 
 .bottom1 .side1 .data2{
